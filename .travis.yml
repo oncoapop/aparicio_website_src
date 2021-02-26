@@ -8,13 +8,11 @@ deploy:
   on:
     branch: master
   local_dir: _site
-  repo: shahcompbio/shahcompbio.github.io
-  target_branch: master
-  fqdn: shahlab.ca
+  repo: molonc/aparicio_website_src
+  target_branch: aparicio
+  fqdn:
 notifications:
   email:
     recipients:
-      - andrew.mcpherson@gmail.com
-      - jmaanaki@bccrc.ca
     on_success: always
     on_failure: always
