@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Samuel Aparicio, BM BCh PhD FRCPath FRSC
+title: Samuel Aparicio
 position: Distinguished Scientist, Department Head
 email: 
 scholar: 
