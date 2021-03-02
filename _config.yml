@@ -13,7 +13,7 @@ repository: shahcompbio/shahcompbio.github.io
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
-title: "Shah Lab"
+title: "Aparicio Lab"
 tagline: Understanding the evolutionary principles by which cancers proliferate.
 ubc:
   url: http://www.ubc.ca/
@@ -28,10 +28,11 @@ msk:
   name: Memorial Sloan Kettering Cancer Center
   logo: /assets/images/logos/msk.png
 author :
-  name : Sohrab P. Shah
-  email : sshah@bccrc.ca
+  name : Dr. Samuel Aparicio
+  email :
+  phone : 604-675-8201
   github :
-  twitter : SohrabShah
+  twitter : sajraparicio
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
