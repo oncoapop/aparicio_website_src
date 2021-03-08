@@ -14,5 +14,4 @@ Dr Peter Eirew is a Staff Scientist carrying out research in cancer evolution in
 Dr Eirew received the Governor General of Canada Gold Medal in 2012.  
 
 <p><strong>Other Links:</strong><br />
-peirew@bccrc.ca
 www.linkedin.com/in/peter-eirew-867473170
