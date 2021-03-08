@@ -23,10 +23,6 @@ bc_cancer:
   url: http://www.bccancer.bc.ca/
   name: BC Cancer
   logo: /assets/images/logos/bc_cancer.png
-msk:
-  url: https://www.mskcc.org/
-  name: Memorial Sloan Kettering Cancer Center
-  logo: /assets/images/logos/msk.png
 author :
   name : Dr. Samuel Aparicio
   email :
