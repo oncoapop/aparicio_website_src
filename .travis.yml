@@ -10,9 +10,3 @@ deploy:
   local_dir: _site
   repo: molonc/molonc.github.io
   target_branch: master
-  fqdn:
-notifications:
-  email:
-    recipients:
-    on_success: always
-    on_failure: always
