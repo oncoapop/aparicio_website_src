@@ -11,8 +11,6 @@ environment*
 vendor
 .bundle
 
-_site
-
 # Projects
 projects/*
 !projects/index.html
