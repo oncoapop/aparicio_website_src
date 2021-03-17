@@ -8,8 +8,8 @@ deploy:
   on:
     branch: master
   local_dir: _site
-  repo: molonc/aparicio_website_src
-  target_branch: aparicio
+  repo: molonc/molonc.github.io
+  target_branch: master
   fqdn:
 notifications:
   email:
