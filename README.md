@@ -51,6 +51,8 @@ In short, running `bundle install && bundle exec ruby _scripts/update-and-prepro
 
 The website is built using Travis, with builds triggered for each commit. If you commit your changes to a branch and do a pull request, Travis will build your branch and you will be able to check your changes build correctly before going live. Commit your changes to master and they will go live in a few minutes.
 
+Travis builds a directory of HTML pages and assets necessary for the website, then pushes that directory to the molonc/molonc.github.io repository. That repository is then used to create a Github Pages website(https://molonc.github.io/). To make changes to the Aparicio Lab website, commit your changes to the master branch of this repository (molonc/aparicio_website_src) in Github, and Travis will update the molonc.github.io repository automtically.
+
 ## Contribute
 
 Blog posts just require YAML top matter that looks something like:
