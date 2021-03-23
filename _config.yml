@@ -165,28 +165,3 @@ plugins:
   - jekyll-redirect-from
 
 projects:
-  - amcpherson/remixt
-  - gavinha/TitanCNA
-  - aroth85/pyclone
-  - aroth85/JointSNVMix
-  - shahcompbio/scg
-  - amcpherson/defuse
-  - amcpherson/destruct
-  - amcpherson/citup
-  - sohrabsa/ddclone
-  - shahcompbio/apolloh
-  - shahcompbio/cellscape
-  - shahcompbio/drivernet
-  - shahcompbio/hmmcopy_utils
-  - shahcompbio/mapscape
-  - shahcompbio/mutationseq
-  - shahcompbio/postpy
-  - shahcompbio/scvis
-  - shahcompbio/snvmix
-  - shahcompbio/timescape
-  - shahcompbio/xseq
-  - jtaghiyar/kronos
-  - shahcompbio/Epiclomal
-  - kieranrcampbell/clonealign
-  - irrationone/cellassign
-  - shahcompbio/MultiModalMuSig.jl
