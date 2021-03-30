@@ -6,7 +6,7 @@ email:
 scholar: 
 image: /assets/images/team/Ciara better quality.jpg
 email: Coflanagan@bccrc.Ca 
-LinkedIn: www.linkedin.com/in/ciarahoflanagan
+linkedin: www.linkedin.com/in/ciarahoflanagan
 cv: 
 BioSketch: 
 alum: false
