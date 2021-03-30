@@ -1,16 +1,16 @@
-[![Build Status](https://travis-ci.org/shahcompbio/shahwebsite.svg?branch=master)](https://travis-ci.org/shahcompbio/shahwebsite)
-# Shah Lab research website
+[![Build Status](https://github.com/molonc/aparicio_website_src.svg?branch=master)](https://travis-ci.org/molonc/aparicio_website_src)
+# Aparicio Lab research website
 
-The Shah Lab website is a Jekyll website based on the Bedford Lab's website ([bedford.io](http://bedford.io)). The Bedford Jekyll website contains a few nice features, one of which is a front page summarizing recent blog posts, papers, and projects. Projects are auto populated using a Ruby script from metadata extracted from the lab's Github repositories, and thus refer to software projects exclusively.
+The Aparicio Lab website is a Jekyll website based on the Bedford Lab's website ([bedford.io](http://bedford.io)). The Bedford Jekyll website contains a few nice features, one of which is a front page summarizing recent blog posts, papers, and projects. Projects are auto populated using a Ruby script from metadata extracted from the lab's Github repositories, and thus refer to software projects exclusively.
 
-The Shah Lab website lives on Github Pages. Because the Bedford lab website uses some preprocessing and plugins not supported by Github Pages, the feature provided by Github Pages to automatically generate a Jekyll website from the Jekyll source is not being used. Instead, the Jekyll source will be here: https://github.com/shahcompbio/shahwebsite, and the built website here: https://github.com/shahcompbio/shahcompbio.github.io.
+The Aparicio Lab website lives on Github Pages. Because the Bedford lab website uses some preprocessing and plugins not supported by Github Pages, the feature provided by Github Pages to automatically generate a Jekyll website from the Jekyll source is not being used. Instead, the Jekyll source will be here: https://github.com/molonc/aparicio_website_src, and the built website here: https://github.com/molonc/molonc.github.io.
 
 ## Build site
 
 To build the website locally, clone the repo with:
 
 ```
-git clone --recurse-submodules https://github.com/shahcompbio/shahwebsite.git
+git clone --recurse-submodules https://github.com/molonc/aparicio_website_src.git
 ```
 
 Then install necessary Ruby dependencies by running:
