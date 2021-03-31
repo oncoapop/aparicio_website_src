@@ -60,54 +60,57 @@
 
   <!-- Static top navbar -->
 
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class='container'>
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a href="/">
-        <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/lab-logo.svg" type="image/svg+xml">
-        </a>
-      </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class='col-sm-1'></div>
+    <a href="/">
+      <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/lab-logo.svg" type="image/svg+xml">
+    </a>
+    {% assign make_title = true %}
+    {% for pc in page.categories %}
+      {% if pc == "home" %}
+       {% assign make_title = false %}
+      {% endif %}
+    {% endfor %}
+    {% if make_title == true %}
+    <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+    {% endif %}
+      
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/careers">Careers</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/research">Research</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/team">Team</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/papers">Papers</a>
+              </li>
+              </ul>
+          </div>
 
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-        <ul class="nav navbar-nav navbar-left hidden-sm">
-          <!-- Don't put site title on home page -- there's already a big title there. -->
-          {% assign make_title = true %}
-          {% for pc in page.categories %}
-            {% if pc == "home" %}
-             {% assign make_title = false %}
-            {% endif %}
-          {% endfor %}
-          {% if make_title == true %}
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          {% endif %}
         </ul>
+      </div>
+    </div>
+    <div class='col-sm-1'></div>
+  </nav>
+
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display-->
+
+      <!-- Collect the nav links, forms, and other content for toggling 
+      
+
         <ul class="nav navbar-nav navbar-right pull-right">
           {% assign pages_list = (site.pages | sort: 'navorder') %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
-          <!--<li class="dropdown nav navbar-nav">-->
-            <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">-->
-              <!--More <span class="caret"></span>-->
-            <!--</a>-->
-
-            <!--<ul class="dropdown-menu nav navbar-nav" role="menu">-->
-              <!--{% assign pages_list = (site.pages | sort: 'navorder') %}-->
-              <!--{% assign group = 'subnavigation' %}-->
-              <!--{% include JB/pages_list %}-->
-            <!--</ul>-->
-          <!--</li>-->
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </nav>
-   </div>
+-->
 
    <!-- Content -->
    <div class="container">
@@ -116,29 +119,28 @@
 
 
   <!-- Static bottom navbar -->
-  <nav class="navbar navbar-default navbar-fixed-bottom">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-bottom">
+    <div class="container-fluid">
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        
+        <div class = "col-md-2">
         <a class="logo-anchor" href="{{ site.msk.url }}">
-          <img class="logo" alt="{{ site.msk.name }}" src={{ site.msk.logo }}>
+          <img class="logo" alt="{{ site.msk.name }}" src="{{ site.msk.logo }}">
         </a>
         <a class="logo-anchor" href="{{ site.bc_cancer.url }}">
-          <img class="logo" alt="{{ site.bc_cancer.name }}" src={{ site.bc_cancer.logo }}>
+          <img class="logo" alt="{{ site.bc_cancer.name }}" src="{{ site.bc_cancer.logo }}">
         </a>
         <a class="logo-anchor" href="{{ site.ubc.url }}">
-          <img class="logo" alt="{{ site.ubc.name }}" src={{ site.ubc.logo }}>
+          <img class="logo" alt="{{ site.ubc.name }}" src="{{ site.ubc.logo }}">
         </a>
-        <ul class="nav navbar-nav navbar-right navbar-small">
-          <li><a href='/contact'>Contact</a></li>
-        </ul>
+        </div>
+        <div class = "col-md-8"></div>
+        <div class = 'float-right col-md-2'>
+          <ul class="nav navbar-nav navbar-right navbar-small">
+            <li><a href='/contact'>Contact</a></li>
+          </ul>
+      </div>
       </div><!-- /.navbar-collapse -->
     </div>
   </nav>
