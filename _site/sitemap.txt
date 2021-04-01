@@ -1,5 +1,6 @@
 
 http://shahlab.ca/atom.xml
+http://shahlab.ca/careers
 http://shahlab.ca/categories
 http://shahlab.ca/contact
 http://shahlab.ca/misc/
@@ -35,8 +36,8 @@ http://shahlab.ca/papers/30293940
 http://shahlab.ca/papers/30078558
 http://shahlab.ca/papers/30067358
 http://shahlab.ca/papers/29754820
-http://shahlab.ca/misc/careers
 http://shahlab.ca/papers/29044127
+http://shahlab.ca/misc/careers
 http://shahlab.ca/misc/research
 http://shahlab.ca/misc/home
 http://shahlab.ca/misc/about

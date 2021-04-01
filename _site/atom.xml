@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-04-01T00:46:37-07:00</updated>
+ <updated>2021-04-01T01:18:30-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -306,16 +306,6 @@ authors:&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Careers</title>
-   <link href="http://shahlab.ca/misc/careers"/>
-   <updated>2018-01-08T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/careers</id>
-   <content type="html">
-&lt;p&gt;This is a test for the Careers page.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Engineered in-vitro cell line mixtures and robust evaluation of computational methods for clonal decomposition and longitudinal dynamics in cancer.</title>
    <link href="http://shahlab.ca/papers/29044127"/>
    <updated>2017-10-19T00:00:00-07:00</updated>
@@ -327,6 +317,18 @@ authors:&lt;/p&gt;
 
 &lt;p&gt;Characterization and quantification of tumour clonal populations over time via longitudinal sampling are essential components in understanding and predicting the response to therapeutic interventions. Computational methods for inferring tumour clonal composition from deep-targeted sequencing data are ubiquitous, however due to the lack of a ground truth biological data, evaluating their performance is difficult. In this work, we generate a benchmark data set that simulates tumour longitudinal growth and heterogeneity by in vitro mixing of cancer cell lines with known proportions. We apply four different algorithms to our ground truth data set and assess their performance in inferring clonal composition using different metrics. We also analyse the performance of these algorithms on breast tumour xenograft samples. We conclude that methods that can simultaneously analyse multiple samples while accounting for copy number alterations as a factor in allelic measurements exhibit the most accurate predictions. These results will inform future functional genomics oriented studies of model systems where time series measurements in the context of therapeutic interventions are becoming increasingly common. These studies will need computational models which accurately reflect the multi-factorial nature of allele measurement in cancer including, as we show here, segmental aneuploidies.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>careers</title>
+   <link href="http://shahlab.ca/misc/careers"/>
+   <updated>2017-08-10T00:00:00-07:00</updated>
+   <id>http://shahlab.ca/misc/careers</id>
+   <content type="html">
+&lt;h2 id=&quot;careers&quot;&gt;Careers&lt;/h2&gt;
+
+&lt;p&gt;Careers Page Content&lt;/p&gt;
 </content>
  </entry>
  
