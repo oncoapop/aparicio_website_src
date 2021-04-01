@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-03-31T16:35:40-07:00</updated>
+ <updated>2021-04-01T00:24:04-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -2585,15 +2585,6 @@ The UBC Faculty of Medicine provides innovative educational and research program
  </entry>
  
  <entry>
-   <title>Emma Laks</title>
-   <link href="http://shahlab.ca/team/Emma-Laks"/>
-   <updated>2000-02-03T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/team/Emma Laks</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>Farhia Kabeer</title>
    <link href="http://shahlab.ca/team/Farhia-Kabeer"/>
    <updated>2000-02-02T00:00:00-08:00</updated>
@@ -2748,7 +2739,7 @@ research focus on single-cell computational and system immunology. In January 20
    <link href="http://shahlab.ca/team/Ciara-O'Flanagan"/>
    <updated>2000-01-16T00:00:00-08:00</updated>
    <id>http://shahlab.ca/team/Ciara O'Flanagan</id>
-   <content type="html">&lt;p&gt;Ciara has a PhD in cancer biology and a background in the cell biology of progressive breasts cancer. Her current research involves the development of high throughput imaging and drug screening techniques to study the relationship between the genomic and transcriptomic landscape and response to treatment in breast and ovarian cancers.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Ciara has a PhD in cancer biology and a background in the cell biology of progressive breast cancer. Her current research involves the development of high throughput imaging and drug screening techniques to study the relationship between the genomic and transcriptomic landscape and response to treatment in breast and ovarian cancers.&lt;/p&gt;
 </content>
  </entry>
  

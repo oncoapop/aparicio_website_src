@@ -6,8 +6,6 @@ http://shahlab.ca/misc/
 http://shahlab.ca/papers/
 http://shahlab.ca/team/
 http://shahlab.ca/
-http://shahlab.ca/index1.1
-http://shahlab.ca/index_main_backup
 http://shahlab.ca/pages
 http://shahlab.ca/research
 http://shahlab.ca/sitemap.txt
@@ -166,7 +164,6 @@ http://shahlab.ca/papers/12142439
 http://shahlab.ca/papers/11831227
 http://shahlab.ca/team/Hak-Woo-Lee
 http://shahlab.ca/team/Yi-Fei-(Eric)-Liu
-http://shahlab.ca/team/Emma-Laks
 http://shahlab.ca/team/Farhia-Kabeer
 http://shahlab.ca/team/Woongcheol-(William)-Choi
 http://shahlab.ca/team/Angelica-Mae-Baniqued
