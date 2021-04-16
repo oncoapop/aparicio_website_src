@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-04-01T01:18:30-07:00</updated>
+ <updated>2021-04-16T10:05:02-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -148,6 +148,15 @@ authors:&lt;/p&gt;
 
 &lt;p&gt;The DEAD-box family of RNA helicases plays essential roles in both transcriptional and translational mRNA degradation; they unwind short double-stranded RNA by breaking the RNA-RNA interactions. Two DEAD-box RNA helicases, eukaryotic translation initiation factor 4A3 (eIF4A3) and DEAD-box helicase 3 (DDX3X), show high homology in the ATP-binding region and are considered key molecules for cancer progression. Several small molecules that target eIF4A3 and DDX3X have been reported to inhibit cancer cell growth; however, more potent compounds are required for cancer therapeutics, and there is a critical need for high-throughput assays to screen for RNA helicase inhibitors. In this study, we developed novel fluorescence resonance energy transfer-based high-throughput RNA helicase assays for eIF4A3 and DDX3X. Using these assays, we identified several eIF4A3 allosteric inhibitors whose inhibitory effect on eIF4A3 ATPase showed a strong correlation with inhibitory effect on helicase activity. From 102 compounds that exhibited eIF4A3 ATPase inhibition, we identified a selective DDX3X inhibitor, C1, which showed stronger inhibition of DDX3X than of eIF4A3. Small-molecule helicase inhibitors can be valuable for clarifying the molecular machinery of DEAD-box RNA helicases. The high-throughput quantitative assays established here should facilitate the evaluation of the helicase inhibitory activity of compounds.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cloud Engineer, Programmer, Architect (Microsoft Azure)</title>
+   <link href="http://shahlab.ca/misc/jobOpening1"/>
+   <updated>2020-01-01T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/misc/jobOpening1</id>
+   <content type="html">
 </content>
  </entry>
  
@@ -317,6 +326,18 @@ authors:&lt;/p&gt;
 
 &lt;p&gt;Characterization and quantification of tumour clonal populations over time via longitudinal sampling are essential components in understanding and predicting the response to therapeutic interventions. Computational methods for inferring tumour clonal composition from deep-targeted sequencing data are ubiquitous, however due to the lack of a ground truth biological data, evaluating their performance is difficult. In this work, we generate a benchmark data set that simulates tumour longitudinal growth and heterogeneity by in vitro mixing of cancer cell lines with known proportions. We apply four different algorithms to our ground truth data set and assess their performance in inferring clonal composition using different metrics. We also analyse the performance of these algorithms on breast tumour xenograft samples. We conclude that methods that can simultaneously analyse multiple samples while accounting for copy number alterations as a factor in allelic measurements exhibit the most accurate predictions. These results will inform future functional genomics oriented studies of model systems where time series measurements in the context of therapeutic interventions are becoming increasingly common. These studies will need computational models which accurately reflect the multi-factorial nature of allele measurement in cancer including, as we show here, segmental aneuploidies.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>benefits</title>
+   <link href="http://shahlab.ca/misc/benefits"/>
+   <updated>2017-08-12T00:00:00-07:00</updated>
+   <id>http://shahlab.ca/misc/benefits</id>
+   <content type="html">
+&lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
+
+&lt;p&gt;These are the benefits of working in the Aparicio Lab&lt;/p&gt;
 </content>
  </entry>
  
@@ -2833,7 +2854,123 @@ research focus on single-cell computational and system immunology. In January 20
    <link href="http://shahlab.ca/team/Sean-Beatty"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
    <id>http://shahlab.ca/team/Sean Beatty</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;Sean’s doctoral work was performed in the laboratory of Danielle Malo DVM, Ph.D. at the McGill University Research Centre on Complex Traits. His 2016 thesis focused on the immunogenetics of typhoid fever and iron homeostasis during the immune response. Sean was a member of the team at the bibliometrics startup Meta, and later at the Chan Zuckerberg Initiative (CZI) following Meta’s acquisition. Before joining the Aparicio lab Sean worked as a scientific consultant for clients in academia, industry, and healthcare.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sohrab Shah</title>
+   <link href="http://shahlab.ca/stories/Sohrab-Shah"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Sohrab Shah</id>
+   <content type="html">&lt;p&gt;Sohrab Shah received a PhD in computer science from UBC in 2008 and was appointed as a Principal Investigator to The BC Cancer Agency and the University of British Columbia in 2010. As well, Dr. Shah was appointed to MSK in April 2018 as the inaugural Chief of the Computational Oncology Service and is the incumbent of the Nicholls-Biondi Chair. He held the Canada Research Chair in Computational Cancer Genomics, and was the recipient of both a Michael Smith Foundation for Health Research Career Investigator Award and a Terry Fox Research Institute New Investigator Award. His research focuses on understanding how tumours evolve over time through integrative approaches involving genomics and computational modeling. Dr. Shah has pioneered computational methods and software for inference of mutations in cancer genomes as well as deciphering patterns of cancer evolution which have been widely disseminated internationally. He has a track record of developing novel, innovative Bayesian statistical models, algorithms, and computational approaches to analyze large, high dimensional genomics and transcriptomic data sets, from both patient tumours and model systems. This includes advancing molecular profiling of cancer cells at single cell resolution. Dr. Shah has been at the forefront of studying tumor evolution in breast, ovary and lymphoid malignancies. His work has been published in Nature, Nature Genetics, Nature Methods, NEJM, Genome Research, Genome Biology, amongst others. Dr. Shah oversees an annual budget of &amp;gt;$1M in competitively awarded funding from philanthropic, government and international bodies.&lt;/p&gt;
+
+&lt;p&gt;Dr. Shah has trained several highly productive PhD graduates whom have gone on to positions at Harvard Medical School, Oxford University Statistics and the Broad Institute of MIT. His trainees include 2 Vanier scholars and 1 Michael Smith Foundation for Heath Research postdoctoral fellow.  He was honoured with the Distinguished Achievement Award for Overall Excellence – Early Career. Fac. of Med UBC (2013), and was named a Killam Laureate recognizing outstanding research and scholarly contributions at University of British Columbia (2016).&lt;/p&gt;
+
+&lt;p&gt;Bio From https://www.bccrc.ca/dept/mo/people/sohrab-p-shah&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gholamreza (Reza) Haffari</title>
+   <link href="http://shahlab.ca/stories/Reza-Haffari"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Reza Haffari</id>
+   <content type="html">&lt;p&gt;Reza’s work is focused on Artificial Intelligence (AI), particularly in low-level perception and high-level reasoning under uncertainty, mainly from text and potentially from other data modalities such as vision and speech. His research tackles problems such as:&lt;/p&gt;
+
+&lt;p&gt;Understanding and generating natural language text eg translating documents from one language to another while keeping the document’s coherency/semantics intact.&lt;/p&gt;
+
+&lt;p&gt;Effective training of deep neural networks with minimal human supervision as this powerful technology is data hungry, eg through interaction with human to achieve effective lifelong learning.&lt;/p&gt;
+
+&lt;p&gt;Explaining the outcome of black-box computational models in order to make them trustable in critical decision making scenarios such as digital health.&lt;/p&gt;
+
+&lt;p&gt;Bio from https://research.monash.edu/en/persons/reza-haffari&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jiarui Ding</title>
+   <link href="http://shahlab.ca/stories/Jiarui-Ding"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Jiarui Ding</id>
+   <content type="html">&lt;p&gt;Jiarui Ding Bio&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hossein Farahani</title>
+   <link href="http://shahlab.ca/stories/Hossein-Farahani"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Hossein Farahani</id>
+   <content type="html">&lt;p&gt;Hossein Farahani Bio&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gavin Ha</title>
+   <link href="http://shahlab.ca/stories/Gavin-Ha"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Gavin Ha</id>
+   <content type="html">&lt;p&gt;Dr. Gavin Ha is a computational biologist who studies the role of genomic alterations in cancer. He and his research team focus on developing and applying computational methods to profile cancer genomes from patient tumors and blood. His laboratory develops novel approaches to study cell-free DNA released from tumor cells into the blood (also known as circulating tumor DNA). The use of this approach, called “liquid biopsies,” combined with insights from tumor genome analysis, will be critical to uncover causes of treatment resistance, discover novel genetic biomarkers from the blood, and develop non-invasive applications for cancer precision medicine.&lt;/p&gt;
+
+&lt;p&gt;Bio from https://www.fredhutch.org/en/faculty-lab-directory/ha-gavin.html&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fong Chun Chan</title>
+   <link href="http://shahlab.ca/stories/Fong-Chun-Chan"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Fong Chun Chan</id>
+   <content type="html">&lt;p&gt;I am currently a Principal Bioinformatics Scientist at Achilles Therapeutics. My primary focus has been to develop an industry-grade immunotherapy/immunogenomics pipeline (based on the TRACERx pipeline pioneered from Charles Swanton’s lab) that identifies clonal neo-antigens that can elicit antitumor responses. In particular, I am spearheading the research and improvements on copy number profiling, clonal mutation detection, and neoantigen generation.&lt;/p&gt;
+
+&lt;p&gt;I completed my Bioinformatics PhD in 2017 under the co-supervision of Dr. Sohrab Shah and Dr. Christian Steidl studying tumour heterogeneity and its implications on disease progression in B-cell lymphomas. In particular, how tumour evolution plays a role in treatment resistance and how understanding this process may aid in the determination of relevant and precise therapeutic approaches for each cancer patient. Throughout my PhD and industry experience, I have acquired experience/skills in the following specific areas:&lt;/p&gt;
+
+&lt;p&gt;Cancer genomic analyses that include prediction of somatic single nucleotide variants, small insertions/deletions, genomic breakpoints, gene-fusions, and copy number calling.
+Cancer evolution analyses that include the deconvolution of clonal composition, both at the single region and multi-regional level, and tracking of tumor evolution over time through serial sampling (e.g. primary vs. relapse)
+Prognostic biomarker discovery and modeling (e.g. multi-variate elastic-net Cox regression)
+Immunogenomics analyses that include HLA typing, and neo-antigen predictions
+I have a passion for applying statistical and machine learning approaches to big data, in particular genomics data (e.g. sequencing data). In terms of technical skills:&lt;/p&gt;
+
+&lt;p&gt;I have expertise in dealing with big data in the R programming language (e.g. data.table, tidyr, dplyr) and a thorough understanding of the core principles around R
+I have extensive experience in doing reproducible research through interactive applications and D3 web reporting (e.g. Rmarkdown, knitr, pandoc, git, shiny)
+I have expertise in developing/managing big data processing pipelines through the Make engine with experience in using ruffus, bpipe, snakemake, and nextflow.
+I have experience in continuous integration/unit testing in production based workflows.&lt;/p&gt;
+
+&lt;p&gt;Bio From https://tinyheero.github.io/about/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Camila de Souza</title>
+   <link href="http://shahlab.ca/stories/Camila-de-Souza"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Camila de Souza</id>
+   <content type="html">&lt;p&gt;My research program consists of developing new statistical methods to analyze large and complex data structures arising from various areas in the Natural Sciences, Health, and Engineering. I conduct research on techniques involving clustering, hierarchical mixture models, mixed effect models, hidden Markov models, nonparametric regression, semi-parametric models, expectation-maximization (EM) algorithm, and Bayesian variational inference. I am particularly interested in applications comprising single-cell sequencing data, and electrical energy consumption data.&lt;/p&gt;
+
+&lt;p&gt;Bio from https://www.uwo.ca/stats/people/bios/camila-de-souza.html&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Andrew Roth</title>
+   <link href="http://shahlab.ca/stories/Andrew-Roth"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Andrew Roth</id>
+   <content type="html">&lt;p&gt;Dr. Andrew Roth, PhD (UBC) is an assistant professor in the Departments of Pathology and Laboratory Medicine, and Computer Science. His interdisciplinary research focuses on the application of statistical machine learning to problems in high dimensional cancer biology. This research program encompasses the development of computational methods for studying clonal population structures and tumour evolution, as well as methodological work in computational statistics. His work in computational biology has been published in Nature Methods and applied in high profile studies of breast and ovarian cancer published in Nature and Nature Genetics. Dr. Roth will provide expertise in bioinformatics analysis. In particular, he will focus on developing computational approaches for studying the spatial and temporal dynamics of the malignant-cell immune interface.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Adi Steif</title>
+   <link href="http://shahlab.ca/stories/Adi-Steif"/>
+   <updated>2000-01-04T00:00:00-08:00</updated>
+   <id>http://shahlab.ca/stories/Adi Steif</id>
+   <content type="html">&lt;p&gt;During her PhD at UBC in Vancouver, Canada, Adi established herself as a promising cancer researcher. She made contributions to the understanding of breast cancer evolution and methods for single-cell whole genome sequencing. Adi worked with Prof John Marioni in Cambridge, UK and used her placement as a Schmidt Science Fellow to develop her skills in probabilistic modeling and machine learning.&lt;/p&gt;
+
+&lt;p&gt;Adi brought together her experience in cancer research and advances in computational approaches together to generate new insights into single-cell biology during normal development and early carcinogenesis. After completing her fellowship, Adi continues her work as a Junior Research Fellow at Trinity College, University of Cambridge.&lt;/p&gt;
+
+&lt;p&gt;Bio From https://schmidtsciencefellows.org/fellow/adi-steif/&lt;/p&gt;
 </content>
  </entry>
  

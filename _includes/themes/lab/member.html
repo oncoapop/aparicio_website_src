@@ -83,6 +83,18 @@
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
+		{% if member.linkedin %}
+		<div class="smallhead">
+			LinkedIn
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-book fa-fw"></i>
+			<a class="off" href="{{ member.linkedin }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		
 	</div>
 	<div class="col-md-8">
 		<div class="post">

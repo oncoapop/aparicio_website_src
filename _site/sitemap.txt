@@ -1,4 +1,5 @@
 
+http://shahlab.ca/2020-01-01-jobOpening1
 http://shahlab.ca/atom.xml
 http://shahlab.ca/careers
 http://shahlab.ca/categories
@@ -26,6 +27,7 @@ http://shahlab.ca/papers/32546838
 http://shahlab.ca/papers/32033589
 http://shahlab.ca/papers/32025007
 http://shahlab.ca/papers/31954521
+http://shahlab.ca/misc/jobOpening1
 http://shahlab.ca/papers/31730858
 http://shahlab.ca/papers/31623682
 http://shahlab.ca/papers/31501550
@@ -37,6 +39,7 @@ http://shahlab.ca/papers/30078558
 http://shahlab.ca/papers/30067358
 http://shahlab.ca/papers/29754820
 http://shahlab.ca/papers/29044127
+http://shahlab.ca/misc/benefits
 http://shahlab.ca/misc/careers
 http://shahlab.ca/misc/research
 http://shahlab.ca/misc/home
@@ -192,6 +195,15 @@ http://shahlab.ca/team/Cynthia-Ferguson
 http://shahlab.ca/team/Peter-Eirew
 http://shahlab.ca/team/Viviana-Cerda-Llanos
 http://shahlab.ca/team/Sean-Beatty
+http://shahlab.ca/stories/Sohrab-Shah
+http://shahlab.ca/stories/Reza-Haffari
+http://shahlab.ca/stories/Jiarui-Ding
+http://shahlab.ca/stories/Hossein-Farahani
+http://shahlab.ca/stories/Gavin-Ha
+http://shahlab.ca/stories/Fong-Chun-Chan
+http://shahlab.ca/stories/Camila-de-Souza
+http://shahlab.ca/stories/Andrew-Roth
+http://shahlab.ca/stories/Adi-Steif
 http://shahlab.ca/team/Cherie-Bates
 http://shahlab.ca/team/Mirela-Andronescu
 http://shahlab.ca/team/Example-Person

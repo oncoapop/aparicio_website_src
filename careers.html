@@ -12,5 +12,193 @@ navorder: 1
 	{% endif %}
 {% endfor %}
 
-<div class="bigspacer"></div>
-{{ careerspage.content }}
+{% for page in site.categories.misc %}
+	{% if page.benefits %}
+		{% assign benefitspage = page %}
+	{% endif %}
+{% endfor %}
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="card bg-light">
+			<div class="card-body">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="smallhead jumbotron">
+							{{ careerspage.content }}
+						</div>
+					</div>
+				</div>
+			</div>
+		  </div>
+
+	</div>
+</div>
+
+<div class = 'bigspacer'></div>
+
+
+
+<div class="card-body" style="background-color:light;">
+
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg">
+			</div>
+			<div class="col-sm">
+				<div class="head" style="padding: 10px;">
+					<a class='d-flex justify-content-center off' style="text-decoration:none; margin: auto;">Open Positions</a>
+				</div>
+			</div>
+			<div class="col-lg">
+			</div>
+		</div>
+	</div>
+	
+
+
+	<div class="accordion accordion-flush" id="accordionFlushExample">
+
+		{% for job in site.categories.misc %}
+			{% if job.job==true %}
+				<div class="accordion-item">
+					<h2 class="accordion-header" id= "{{ job.title }}">
+					<button class="accordion-button collapsed buttonActivate" type="button" data-bs-trigger="hover focus" data-bs-toggle="collapse" data-bs-target="#ID2" aria-expanded="false" aria-controls="ID2">
+						<!-- <img src="Research1.png" width=50 alt=""> -->
+						<a>{{ job.title }}</a>
+						
+					</button>
+					</h2>
+
+					<div width = '100' class="accordion-collapse collapse accordionContentLocator" aria-labelledby="{{ job.title }}" data-bs-parent="#accordionFlushExample">
+						<div class="accordion-body">{{ job.description }}</div>
+
+						<div class="smallspacer"></div>
+						<div class="btn-group" role="group" aria-label="Basic example">
+							<a href="{{ job.applyLink }}"><button type="button" class="btn btn-outline-primary">Apply Now</button></a>
+						</div>
+						<div class="smallspacer"></div>
+
+					</div>
+				</div>
+			{% endif %}
+		{% endfor %}
+
+		<script>
+
+		var buttons = document.getElementsByClassName("buttonActivate");
+		var content = document.getElementsByClassName("accordionContentLocator");
+
+		for(var i = 0; i < buttons.length; i++){
+			buttons[i].setAttribute("aria-controls", 'Q'+String(i));
+			buttons[i].setAttribute("data-bs-target", '#' +'Q'+String(i));
+		}
+
+		for(var i = 0; i < content.length; i++){
+			content[i].setAttribute("ID", 'Q'+String(i));
+		}
+
+
+		</script>
+	</div>
+  </div>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg">
+		</div>
+		<div class="col-sm">
+			<div class="head" style="padding: 10px;">
+				<a class = 'd-flex justify-content-center off' style="text-decoration:none; margin: auto;">Stories</a>
+			</div>
+		</div>
+		<div class="col-lg">
+		</div>
+	</div>
+</div>
+
+<!--
+
+<div class="container">
+	<div class="row">
+	  <div class="col-sm">
+		<div class="card" style="padding: 10px;">
+			<img src="Sohrab-Shah.jpg" class="card-img-top">
+			<div class="card-body">
+				<h5 class="card-title">Sohrab Shah</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			</div>
+		</div>
+	  </div>
+	  <div class="col-sm">
+		<div class="card" style="padding: 10px;">
+			<img src="Sohrab-Shah.jpg" class="card-img-top">
+			<div class="card-body">
+				<h5 class="card-title">Sohrab Shah</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			</div>
+		</div>
+	  </div>
+	  <div class="col-sm">
+		<div class="card" style="padding: 10px;">
+			<img src="Sohrab-Shah.jpg" class="card-img-top">
+			<div class="card-body">
+				<h5 class="card-title">Sohrab Shah</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			</div>
+		</div>
+	  </div>
+	</div>
+  </div>
+
+-->
+
+<div>
+	{% for member in site.categories.stories %}
+		{% cycle 'add rows': '<div class="row">', '', '' %}
+			<div class="col-md-4 memberbox" style = "padding: 15px;">
+				<div class="media">
+					<a class="pull-left" href="{{ member.url }}">
+						<img width="150" class="media-object" src="{{ member.image }}">
+						<br>
+					</a>
+					<div class="media-body">
+						<div class="head media-heading" style="padding: 10px;"><a href="{{ member.url }}" class="off" style="text-decoration:none;">{{ member.title }}</a>
+							<p class="note">{{ member.position }}</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		{% cycle 'close rows': '', '', '</div>' %}
+	{% endfor %}
+</div>
+
+<div class='bigspacer'></div>
+<div class='bigspacer'></div>
+
+
+  <div class="row">
+	<div class="col-md-12">
+		<div class="card bg-light">
+			<div class="card-body">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="smallhead jumbotron">
+							{{ benefitspage.content }}
+						</div>
+					</div>
+				</div>
+			</div>
+		  </div>
+
+	</div>
+</div>
+
+
+<div class='bigspacer'></div>
+<div class='bigspacer'></div>
