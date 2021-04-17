@@ -5,7 +5,7 @@ position: Research Associated
 scholar: 
 image: /assets/images/team/O'Flanagan-Ciara.jpg
 email: coflanagan@bccrc.Ca 
-linkedin: www.linkedin.com/in/ciarahoflanagan
+linkedin: http://www.linkedin.com/in/ciarahoflanagan
 cv: www.linkedin.com/in/ciarahoflanagan
 BioSketch: 
 alum: false
