@@ -1,12 +1,11 @@
 ---
 layout: member
 title: Ciara O'Flanagan
-position: Research Associated
+position: Research Associate
 scholar: 
 image: /assets/images/team/O'Flanagan-Ciara.jpg
-email: coflanagan@bccrc.Ca 
+email: coflanagan@bccrc.ca 
 linkedin: http://www.linkedin.com/in/ciarahoflanagan
-cv: www.linkedin.com/in/ciarahoflanagan
 BioSketch: 
 alum: false
 ---
