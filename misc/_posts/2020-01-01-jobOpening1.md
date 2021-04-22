@@ -2,9 +2,6 @@
 layout: default
 title: "Cloud Engineer, Programmer, Architect (Microsoft Azure)"
 job: true
-author: Sohrab Shah
-jobNum: "1"
-jobId: "-1"
 category: misc
 applyLink: "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Off-Campus-Hospital-Sites/Cloud-Engineer--Programmer--Architect--Microsoft-Azure-_JR1663"
 
