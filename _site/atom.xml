@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-04-22T09:59:02-07:00</updated>
+ <updated>2021-04-27T10:42:56-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -359,7 +359,11 @@ authors:&lt;/p&gt;
    <updated>2017-08-08T00:00:00-07:00</updated>
    <id>http://shahlab.ca/misc/research</id>
    <content type="html">
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research0&quot;&gt;
+		Overview
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -373,7 +377,11 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;cancer-evolution&quot;&gt;Cancer evolution&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research1&quot;&gt;
+		Cancer evolution
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -397,7 +405,11 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;single-cell-genomics-of-cancer&quot;&gt;Single cell genomics of cancer&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research2&quot;&gt;
+		Single cell genomics of cancer
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -420,7 +432,11 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;bioinformatics-and-software-development&quot;&gt;Bioinformatics and software development&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research3&quot;&gt;
+		Bioinformatics and software development
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -447,7 +463,11 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;mutational-signatures-in-dna-repair-deficient-cancers&quot;&gt;Mutational signatures in DNA repair deficient cancers&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research4&quot;&gt;
+		Mutational signatures in DNA repair deficient cancers
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -472,7 +492,11 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;selection-and-drug-response&quot;&gt;Selection and drug response&lt;/h2&gt;
+&lt;h1&gt;
+	&lt;a id=&quot;Research5&quot;&gt;
+		Selection and drug response
+	&lt;/a&gt;
+&lt;/h1&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -493,7 +517,9 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;key-collaborators&quot;&gt;Key collaborators&lt;/h1&gt;
+&lt;h2&gt;
+	Key collaborators
+&lt;/h2&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;col-md-10&quot;&gt;
@@ -524,58 +550,57 @@ authors:&lt;/p&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
 
-&lt;h1 id=&quot;funding-sources&quot;&gt;Funding sources&lt;/h1&gt;
+&lt;h2&gt;
+	Funding sources
+&lt;/h2&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-	&lt;div class=&quot;col-md-10&quot;&gt;
-		&lt;div class=&quot;col-3&quot;&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://bccancerfoundation.com/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/bccf-logo.svg&quot; alt=&quot;BC Cancer Foundation&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.cihr-irsc.gc.ca/e/193.html&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/cihr_logo-en.jpg&quot; alt=&quot;CIHR&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.cancer.ca/research&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/logo_ccs.png&quot; alt=&quot;CCSRI&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.tfri.ca/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/tfri-logo.png&quot; alt=&quot;TFRI&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col-3&quot;&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.cancerresearchuk.org/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/cruk-logo.svg&quot; alt=&quot;CRUK&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.standuptocancer.org/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/stand-up-2-cancer.png&quot; alt=&quot;CSU2C&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.innovation.ca/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/cfi-logo.svg&quot; alt=&quot;CFI&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.genomecanada.ca&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/gc-logo.png&quot; alt=&quot;Genome Canada&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col-3&quot;&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.genomebc.ca/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/genome-bc.png&quot; alt=&quot;Genome BC&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.canarie.ca/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/canarie-logo.png&quot; alt=&quot;CANARIE&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/CRC.jpg&quot; alt=&quot;Canada Research Chairs&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.msfhr.org/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/MSFHR_logo.jpg&quot; alt=&quot;Michael Smith Foundation for Health Research&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;col-3&quot;&gt;
-			&lt;a class=&quot;logo-anchor&quot; href=&quot;https://ww5.komen.org/&quot;&gt;
-				&lt;img src=&quot;assets/images/research/funding/susan-g-komen-for-the-cure-logo.png&quot; alt=&quot;Susan G Komen&quot; width=&quot;150&quot; style=&quot;margin:0px 10px&quot; /&gt;
-			&lt;/a&gt;
-		&lt;/div&gt;
+	&lt;div class=&quot;col-4&quot;&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://bccancerfoundation.com/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/bccf-logo.svg&quot; alt=&quot;BC Cancer Foundation&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.cihr-irsc.gc.ca/e/193.html&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/cihr_logo-en.jpg&quot; alt=&quot;CIHR&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.cancer.ca/research&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/logo_ccs.png&quot; alt=&quot;CCSRI&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://ww5.komen.org/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/susan-g-komen-for-the-cure-logo.png&quot; alt=&quot;Susan G Komen&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
 	&lt;/div&gt;
+	&lt;div class=&quot;col-4&quot;&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.cancerresearchuk.org/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/cruk-logo.svg&quot; alt=&quot;CRUK&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.standuptocancer.org/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/stand-up-2-cancer.png&quot; alt=&quot;CSU2C&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.innovation.ca/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/cfi-logo.svg&quot; alt=&quot;CFI&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.genomecanada.ca&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/gc-logo.png&quot; alt=&quot;Genome Canada&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-4&quot;&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.genomebc.ca/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/genome-bc.png&quot; alt=&quot;Genome BC&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;https://www.canarie.ca/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/canarie-logo.png&quot; alt=&quot;CANARIE&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/CRC.jpg&quot; alt=&quot;Canada Research Chairs&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.msfhr.org/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/MSFHR_logo.jpg&quot; alt=&quot;Michael Smith Foundation for Health Research&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+		&lt;a class=&quot;logo-anchor&quot; href=&quot;http://www.tfri.ca/&quot;&gt;
+			&lt;img src=&quot;assets/images/research/funding/tfri-logo.png&quot; alt=&quot;TFRI&quot; width=&quot;150&quot; style=&quot;margin:10px&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
