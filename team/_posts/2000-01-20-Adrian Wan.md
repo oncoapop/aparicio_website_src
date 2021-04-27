@@ -7,6 +7,7 @@ scholar:
 image: /assets/images/team/Wan-Adrian.jpg
 cv: 
 BioSketch: 
+linkedin: https://www.linkedin.com/in/adrianncwan
 alum: false
 ---
 
